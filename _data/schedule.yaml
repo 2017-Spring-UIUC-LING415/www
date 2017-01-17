@@ -361,6 +361,11 @@
       title: Chinese room argument
       url: http://www.scholarpedia.org/article/Chinese_room_argument
       optional: true
+    -
+      author: Searle
+      title: "Consciousness in Artificial Intelligence - Guest lecture at Google"
+      url: https://www.youtube.com/watch?v=rHKwIYsPXLg
+      optional: true
 -
   week: 8
   date: 2016-03-07
